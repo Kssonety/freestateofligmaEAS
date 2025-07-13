@@ -1,16 +1,3 @@
 {
   "events": [
-    {
-      "type": "storm",
-      "description": "Severe thunderstorm near Main Base",
-      "x": 310,
-      "y": 340
-    },
-    {
-      "type": "fog",
-      "description": "Tornado advisory in effect",
-      "x": 299,
-      "y": 273
-    }
-  ]
 }
