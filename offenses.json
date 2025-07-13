@@ -2,5 +2,7 @@
   "ie_offense": [
     { "x": 154, "y": 335.32, "description": "Farmer - Active Threat" }
   ],
-  "lg_offense": []
+  "lg_offense": [
+    { "x": 360, "y": 180, "description": "Recon unit near border" }
+  ]
 }
