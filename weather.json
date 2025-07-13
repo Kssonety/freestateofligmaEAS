@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "type": "storm",
+      "description": "Severe thunderstorm near Main Base",
+      "x": 310,
+      "y": 340
+    },
+    {
+      "type": "fog",
+      "description": "Heavy fog over Lake Base",
+      "x": 299,
+      "y": 273
+    }
+  ]
+}
