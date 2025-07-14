@@ -1,9 +1,9 @@
 {
   "ie_offense": [
-    { "x": 154, "y": 335.32, "description": "Farmer - Active Threat", "alarm": "true"}
+    { "x": 154, "y": 335.32, "description": "Farmer - Active Threat", "alarm": "false"}
   ],
   "lg_offense": [
-    { "x": 234, "y": 47.32, "description": "Active Ligmite Target", "alarm": "false"},
+    { "x": 234, "y": 47.32, "description": "Active Ligmite Target", "alarm": "true"},
     { "x": 155, "y": 141.32, "description": "Active Ligmite Target", "alarm": "false"},
     { "x": 161, "y": 317.32, "description": "Active Ligmite Target", "alarm": "false"}
   ]
