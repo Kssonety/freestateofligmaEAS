@@ -1,9 +1,9 @@
 {
   "ie_offense": [
-    
+      { "x": 426, "y": 281.32, "description": "Hazardous Zone- Kildare County Council Operations in progress."}
   ],
   "lg_offense": [
-    { "x": 426, "y": 281.32, "description": "Hazardous Zone- Kildare County Council Operations in progress."}
+
   ],
   "warning": [
     { "x": 234, "y": 47.32, "description": "Active Ligmite Target"},
