@@ -3,7 +3,7 @@
     
   ],
   "lg_offense": [
-
+    { "x": 50, "y": 50, "description": "Test"}
   ],
   "warning": [
     { "x": 234, "y": 47.32, "description": "Active Ligmite Target"},
