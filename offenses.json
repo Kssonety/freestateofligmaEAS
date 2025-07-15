@@ -9,6 +9,11 @@
     { "x": 234, "y": 47.32, "description": "Active Ligmite Target"},
     { "x": 155, "y": 141.32, "description": "Active Ligmite Target"},
     { "x": 161, "y": 317.32, "description": "Active Ligmite Target"},
-    { "x": 154, "y": 335.32, "description": "Farmer - Active Threat and Ligmite Target"}
+    { "x": 154, "y": 335.32, "description": "Farmer - Active Threat and Ligmite Target"},
+    { "x": 282, "y": 265.32, "description": "Potential Irish Target"},
+    { "x": 251, "y": 165, "description": "Potential Irish Target"},
+    { "x": 226, "y": 202.32, "description": "Potential Irish Target"},
+    { "x": 173, "y": 366.32, "description": "Potential Irish Target"},
+    { "x": 307, "y": 334.32, "description": "Potential Irish Target"}
   ]
 }
