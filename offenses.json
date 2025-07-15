@@ -1,9 +1,9 @@
 {
   "ie_offense": [
-    { "x": 543, "y": 471, "description": "Test", "alarm": true}
+
   ],
   "lg_offense": [
-    
+    { "x": 543, "y": 471, "description": "Test", "alarm": true}
   ],
   "warning": [
     { "x": 234, "y": 47.32, "description": "Active Ligmite Target"},
