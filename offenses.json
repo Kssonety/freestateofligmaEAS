@@ -1,6 +1,6 @@
 {
   "ie_offense": [
-    { "x": 111, "y": 200, "description": "Test", "alarm": true}
+    { "x": 10, "y": 150, "description": "Test", "alarm": true}
   ],
   "lg_offense": [
     
