@@ -1,6 +1,6 @@
 {
   "ie_offense": [
-    { "x": 432, "y": 456, "description": "test", "alarm": true, "region": "newfinlay"},
+    { "x": 432, "y": 456, "description": "test", "alarm": true, "region": "newfinlay"}
   ],
   "lg_offense": [
     { "x": 432, "y": 456, "description": "test", "alarm": true, "region": "ploopluck"}
