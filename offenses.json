@@ -6,6 +6,9 @@
 
   ],
   "warning": [
-
+    {"x": 207, "y": 35.32, "description": "Active Ligmite Target"},
+    {"x": 423, "y": 416.32, "description": "Active Ligmite Target"},
+    {"x": 139, "y": 316.32, "description": "Farmer - Active Ligmite Target and Threat"},
+    {"x": 166, "y": 293.32, "description": "Active Ligmite Target"}
   ]
 }
